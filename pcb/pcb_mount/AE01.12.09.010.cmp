@@ -1,0 +1,531 @@
+Cmp-Mod V01 Created by PcbNew   date = dom 14 nov 2021 14:20:41 CET
+
+BeginCmp
+TimeStamp = 618EFF01
+Path = /61AE39EF
+Reference = TP13;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188A2E7
+Path = /6188703D
+Reference = R1;
+ValeurCmp = DNP;
+IdModule  = Resistor_THT:R_Axial_DIN0922_L20.0mm_D9.0mm_P30.48mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 618DD7A7
+Path = /6196CD04
+Reference = LOGO4;
+ValeurCmp = KICAD;
+IdModule  = Symbol:KiCad-Logo2_5mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 618DD792
+Path = /6196C3BC
+Reference = LOGO3;
+ValeurCmp = WEEE;
+IdModule  = Symbol:WEEE-Logo_4.2x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 618DC67F
+Path = /61966C60
+Reference = LOGO2;
+ValeurCmp = Logo_Open_Hardware_Small;
+IdModule  = Symbol:OSHW-Logo_5.7x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 618DC669
+Path = /61966285
+Reference = LOGO1;
+ValeurCmp = SYM_ESD_Small;
+IdModule  = Symbol:ESD-Logo_6.6x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188AB34
+Path = /61C5AEA1
+Reference = H4;
+ValeurCmp = M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188AB2C
+Path = /61C5ABD9
+Reference = H3;
+ValeurCmp = M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188AB83
+Path = /61C5A5C9
+Reference = H2;
+ValeurCmp = M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188AB1C
+Path = /61C59FB3
+Reference = H1;
+ValeurCmp = M3;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188A5B5
+Path = /618B1029
+Reference = CONN1;
+ValeurCmp = VIN;
+IdModule  = TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61882435
+Path = /6193285F
+Reference = CONN2;
+ValeurCmp = BATT;
+IdModule  = TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 61882446
+Path = /619061BD
+Reference = R3;
+ValeurCmp = 0.25R;
+IdModule  = Resistor_SMD:R_2512_6332Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 618FB273
+Path = /61882CD4
+Reference = U1;
+ValeurCmp = MAX713CSE;
+IdModule  = Package_SO:SOIC-16_3.9x9.9mm_P1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618EF4D6
+Path = /618AC41D
+Reference = L1;
+ValeurCmp = DO3340;
+IdModule  = footprints:DO3340P-223MLB;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188894D
+Path = /6189490F
+Reference = M1;
+ValeurCmp = IRFR9024;
+IdModule  = Package_TO_SOT_SMD:TO-252-2;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888962
+Path = /6188D04E
+Reference = Q1;
+ValeurCmp = CMPTA06;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888977
+Path = /6188F2F8
+Reference = Q2;
+ValeurCmp = MMBT2907ALT1;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 618EC205
+Path = /618980E5
+Reference = Q3;
+ValeurCmp = CMPTA06;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 618EAF4F
+Path = /618863F0
+Reference = Q4;
+ValeurCmp = CMPTA06;
+IdModule  = Package_TO_SOT_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 618F0DC2
+Path = /6189C81E
+Reference = JP1;
+ValeurCmp = Jumper;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888D1D
+Path = /6189D0B6
+Reference = JP2;
+ValeurCmp = Jumper;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888F56
+Path = /61B93C2C
+Reference = TP1;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888F5E
+Path = /61B946FA
+Reference = TP2;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888F66
+Path = /61B94CE9
+Reference = TP3;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618FFF2E
+Path = /61B9517B
+Reference = TP4;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888F76
+Path = /61B885B8
+Reference = TP5;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888F7E
+Path = /61B7D904
+Reference = TP6;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618EAF8D
+Path = /61BC1CC4
+Reference = TP7;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888F8E
+Path = /61AC62F0
+Reference = TP8;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888F96
+Path = /61ABC7C8
+Reference = TP9;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888F9E
+Path = /61B171CA
+Reference = TP10;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888FA6
+Path = /61ACFCA0
+Reference = TP11;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618F033C
+Path = /61AD9B0E
+Reference = TP12;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888FBE
+Path = /61AEDC2E
+Reference = TP14;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61888FC6
+Path = /61B0BFCA
+Reference = TP15;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618FBA47
+Path = /61B014DF
+Reference = TP16;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618891D8
+Path = /61C1CFF8
+Reference = TP17;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618891E0
+Path = /61C2B1CD
+Reference = TP18;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618891E8
+Path = /61C1C3A6
+Reference = TP19;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618891F0
+Path = /61BD0893
+Reference = TP20;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618891F8
+Path = /61C02FE0
+Reference = TP21;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618FB832
+Path = /61BF5D1E
+Reference = TP22;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_D1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618FBC3A
+Path = /618EBD4A
+Reference = C2;
+ValeurCmp = 220pF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 61889447
+Path = /618C3142
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 61889458
+Path = /6188C895
+Reference = R2;
+ValeurCmp = 5.1K;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 61889469
+Path = /6189A4C0
+Reference = R4;
+ValeurCmp = 1.5K;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188947A
+Path = /618A6308
+Reference = R5;
+ValeurCmp = 470R;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 6189832A
+Path = /618B68A6
+Reference = R7;
+ValeurCmp = 68K;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188949C
+Path = /618B71A2
+Reference = R8;
+ValeurCmp = 22K;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188976B
+Path = /6194F2D5
+Reference = SW1;
+ValeurCmp = SW1;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 61889787
+Path = /61953083
+Reference = SW2;
+ValeurCmp = SW2;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 618897A3
+Path = /61953E62
+Reference = SW3;
+ValeurCmp = SW3;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 618897BF
+Path = /61954AFA
+Reference = SW4;
+ValeurCmp = SW4;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 61889A6F
+Path = /61C41B22
+Reference = FID1;
+ValeurCmp = Fiducial;
+IdModule  = Fiducial:Fiducial_1mm_Mask2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61889A77
+Path = /61C4373D
+Reference = FID2;
+ValeurCmp = Fiducial;
+IdModule  = Fiducial:Fiducial_1mm_Mask2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61889A7F
+Path = /61C42CAF
+Reference = FID3;
+ValeurCmp = Fiducial;
+IdModule  = Fiducial:Fiducial_1mm_Mask2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 61889D38
+Path = /618AD487
+Reference = D1;
+ValeurCmp = MBRS340T3;
+IdModule  = Diode_SMD:D_SMC;
+EndCmp
+
+BeginCmp
+TimeStamp = 61889D50
+Path = /618A83D3
+Reference = D2;
+ValeurCmp = MBRS340T3;
+IdModule  = Diode_SMD:D_SMC;
+EndCmp
+
+BeginCmp
+TimeStamp = 618F2B96
+Path = /61888F7B
+Reference = D4;
+ValeurCmp = CCLHM080;
+IdModule  = Diode_SMD:D_MiniMELF;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188A981
+Path = /6188556A
+Reference = D3;
+ValeurCmp = LED_ALT;
+IdModule  = LED_SMD:LED_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188A297
+Path = /618D1042
+Reference = C1;
+ValeurCmp = 1uF/10V;
+IdModule  = Capacitor_Tantalum_SMD:CP_EIA-3528-21_Kemet-B;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188A911
+Path = /618DAE8B
+Reference = C3;
+ValeurCmp = 10uF/50V;
+IdModule  = Capacitor_Tantalum_SMD:CP_EIA-7260-38_AVX-R;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188A2BD
+Path = /6188A3D9
+Reference = C5;
+ValeurCmp = 10uF/50V;
+IdModule  = Capacitor_Tantalum_SMD:CP_EIA-7260-38_AVX-R;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188A2D0
+Path = /6188B761
+Reference = C6;
+ValeurCmp = 10uF/50V;
+IdModule  = Capacitor_Tantalum_SMD:CP_EIA-7260-38_AVX-R;
+EndCmp
+
+BeginCmp
+TimeStamp = 6188B1E8
+Path = /61904A94
+Reference = R6;
+ValeurCmp = DNP;
+IdModule  = Resistor_THT:R_Axial_DIN0922_L20.0mm_D9.0mm_P30.48mm_Horizontal;
+EndCmp
+
+EndListe
